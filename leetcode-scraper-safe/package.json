@@ -1,0 +1,17 @@
+{
+  "name": "leetcode-scraper-safe",
+  "version": "1.0.0",
+  "description": "Safe LeetCode contest scraper with improved blocking resistance",
+  "main": "safe-contest-scraper.js",
+  "scripts": {
+    "start": "node safe-contest-scraper.js",
+    "test": "node test-connection.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "https-proxy-agent": "^7.0.2"
+  },
+  "keywords": ["leetcode", "contest", "scraper"],
+  "author": "Safe Scraper",
+  "license": "MIT"
+}
