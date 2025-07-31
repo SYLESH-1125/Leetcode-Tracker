@@ -1,0 +1,102 @@
+[
+  {
+    "leetcode_id": "Ashwanthika Govindaraja",
+    "display_name": "ASHWANTHIKA GOVINDARAJA",
+    "rank": 6508,
+    "score": 9,
+    "finish_time": 1753589521,
+    "matched_variation": "ashwa_govi1",
+    "original_leetcode_id": "Ashwa_govi1",
+    "contest_data": {
+      "contest_id": 1191,
+      "username": "Ashwanthika Govindaraja",
+      "username_color": null,
+      "user_badge": null,
+      "user_slug": "Ashwa_govi1",
+      "country_code": "",
+      "country_name": null,
+      "rank": 6508,
+      "score": 9,
+      "finish_time": 1753589521,
+      "global_ranking": 0,
+      "data_region": "US",
+      "avatar_url": "https://assets.leetcode.com/users/cI6Uk341Ms/avatar_1752585362.png",
+      "replays": null
+    }
+  },
+  {
+    "leetcode_id": "bhuvaneswar_123_new",
+    "display_name": "M BHUVANESWAR",
+    "rank": 6631,
+    "score": 9,
+    "finish_time": 1753589817,
+    "matched_variation": "bhuvaneswar_123_new",
+    "original_leetcode_id": "bhuvaneswar_123_new",
+    "contest_data": {
+      "contest_id": 1191,
+      "username": "bhuvaneswar_123_new",
+      "username_color": null,
+      "user_badge": null,
+      "user_slug": "bhuvaneswar_123_new",
+      "country_code": "",
+      "country_name": null,
+      "rank": 6631,
+      "score": 9,
+      "finish_time": 1753589817,
+      "global_ranking": 0,
+      "data_region": "US",
+      "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+      "replays": null
+    }
+  },
+  {
+    "leetcode_id": "Manoj shivprasad",
+    "display_name": "MANOJ SHIVPRASAD S",
+    "rank": 6573,
+    "score": 9,
+    "finish_time": 1753589680,
+    "matched_variation": "manoj_2007",
+    "original_leetcode_id": "Manoj_2007",
+    "contest_data": {
+      "contest_id": 1191,
+      "username": "Manoj shivprasad",
+      "username_color": null,
+      "user_badge": null,
+      "user_slug": "Manoj_2007",
+      "country_code": "IN",
+      "country_name": "India",
+      "rank": 6573,
+      "score": 9,
+      "finish_time": 1753589680,
+      "global_ranking": 0,
+      "data_region": "US",
+      "avatar_url": "https://assets.leetcode.com/users/Manoj_2007/avatar_1726299459.png",
+      "replays": null
+    }
+  },
+  {
+    "leetcode_id": "Sanjay .S",
+    "display_name": "SANJAY S",
+    "rank": 4740,
+    "score": 9,
+    "finish_time": 1753587705,
+    "matched_variation": "kuk41yjxbs",
+    "original_leetcode_id": "kuK41YJxBS",
+    "contest_data": {
+      "contest_id": 1191,
+      "username": "Sanjay .S",
+      "username_color": null,
+      "user_badge": null,
+      "user_slug": "kuK41YJxBS",
+      "country_code": "IN",
+      "country_name": "India",
+      "rank": 4740,
+      "score": 9,
+      "finish_time": 1753587705,
+      "global_ranking": 0,
+      "data_region": "US",
+      "avatar_url": "https://assets.leetcode.com/users/kuK41YJxBS/avatar_1726812313.png",
+      "replays": null
+    }
+  }
+]

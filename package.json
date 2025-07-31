@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-contest-scraper",
+  "version": "1.0.0",
+  "description": "LeetCode Contest 460 Data Scraper",
+  "main": "contest-460-scraper.js",
+  "scripts": {
+    "start": "node contest-460-scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "https-proxy-agent": "^7.0.6",
+    "pdfkit": "^0.17.1"
+  },
+  "keywords": [
+    "leetcode",
+    "contest",
+    "scraper",
+    "data"
+  ],
+  "author": "Contest Scraper",
+  "license": "MIT"
+}
